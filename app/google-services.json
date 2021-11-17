@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353449218131",
+    "firebase_url": "https://nifty-travel-guide-default-rtdb.firebaseio.com",
+    "project_id": "nifty-travel-guide",
+    "storage_bucket": "nifty-travel-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353449218131:android:274bcf1a1f6e5acdec36a6",
+        "android_client_info": {
+          "package_name": "com.cityUniversity.niftytravelguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353449218131-8hhh0lojsj4m34hp0rf6navshqo09sb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxcfWiru1y1UWlH4tghrawSQf3rNwRBgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353449218131-8hhh0lojsj4m34hp0rf6navshqo09sb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
